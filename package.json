@@ -15,8 +15,19 @@
   },
   "license": "0BSD",
   "dependencies": {
-    "gatsby": "^2.24.79",
+    "@contentful/rich-text-react-renderer": "^14.1.1",
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/styles": "^4.10.0",
+    "@typescript-eslint/eslint-plugin": "^4.5.0",
+    "@typescript-eslint/parser": "^4.5.0",
+    "dotenv": "^8.2.0",
+    "gatsby": "^2.24.87",
+    "gatsby-plugin-material-ui": "^2.1.10",
+    "gatsby-plugin-typescript": "^2.4.24",
+    "gatsby-source-contentful": "^3.0.4",
+    "mdi-material-ui": "^6.20.0",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "typescript": "^4.0.3"
   }
 }

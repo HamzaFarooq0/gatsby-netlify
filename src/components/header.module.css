@@ -1,0 +1,16 @@
+.container {
+  background-color: darkslateblue;
+  overflow: hidden;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.container > a {
+  margin: 0 10px;
+  color: white;
+  text-decoration: none;
+}
+
+.container > a:hover {
+  color: brown;
+}
